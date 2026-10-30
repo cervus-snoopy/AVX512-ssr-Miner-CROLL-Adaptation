@@ -1,0 +1,1 @@
+# AVX552-ssr-Miner-CROLL-Adaptation
