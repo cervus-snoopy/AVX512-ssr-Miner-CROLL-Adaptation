@@ -1,0 +1,5 @@
+AVX512_SSr_CROLL_adaptation
+*.o
+*.out
+croll_ssr.checkpoint
+croll_ssr.checkpoint.tmp
